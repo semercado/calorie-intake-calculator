@@ -34,7 +34,7 @@ const initialData: UserData = {
     activityLevel: 'sedentary',
     formula: 'harris-benedict',
     useMetric: false,
-    heightFeet: 5,
+    heightFeet: 0,
     heightInches: 0,
     weightLbs: 0,
 };
