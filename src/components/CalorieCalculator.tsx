@@ -32,7 +32,7 @@ const initialData: UserData = {
     height: 0,
     gender: 'male',
     activityLevel: 'sedentary',
-    formula: 'harris-benedict',
+    formula: 'mifflin-st-jeor',
     useMetric: false,
     heightFeet: 0,
     heightInches: 0,
